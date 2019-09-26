@@ -1,0 +1,49 @@
+/* uppgift 4 */
+header h1 {
+  font-size: 3em;
+  color: #0000ff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* uppgift 5 */
+#navigation-bar {
+  width: 100vw;
+  height: 30px;
+  background-color: red;
+}
+
+/* uppgift 6 */
+.navlist {
+  display: inline;
+  margin: 20px;
+}
+
+/* uppgift 9 */
+#team-table {
+  background-color: lightgray;
+  width: 700px;
+  height: 500px;
+  margin: auto;
+}
+
+/* uppgift 11 */
+#funny-element {
+  width: 200px;
+  height: 30px;
+  background-color: green;
+  margin-top: 1800px;
+  float: right;
+}
+
+/* uppgift 12 */
+.img-kitten {
+  margin: 10px;
+  border: 1px solid red;
+}
+
+/* uppgift 13 */
+#container {
+  display: flex;
+  width: 644px;
+  flex-wrap: wrap;
+}
